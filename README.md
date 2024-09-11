@@ -1,2 +1,2 @@
 # Jarvis-Assistant-AI
-i developed this project using python 
+I developed this project using python 
